@@ -1,4 +1,4 @@
-Welcome to my collection of specialized text files
+#### Welcome to my collection of specialized text files
 
-[Personal Website](https://rmmueller.com)
-[Codeberg](https://codeberg.org/rmuell9)
+- [Personal Website](https://rmmueller.com)
+- [Codeberg](https://codeberg.org/rmuell9)
