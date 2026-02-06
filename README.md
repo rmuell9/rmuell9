@@ -1,3 +1,3 @@
-- Reach me at [matthew@rmmueller.com](matthew@rmmueller.com)
+- Reach me at [matthew@rmmueller.com](mailto:matthew@rmmueller.com)
 - Personal website: [matthewmüller.com](https://xn--matthewmller-klb.com/)
-- Check out my other repos at [Codeberg.org](codeberg.org)
+- Check out my other repos at [Codeberg.org](https://codeberg.org)
