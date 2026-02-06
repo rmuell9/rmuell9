@@ -1,4 +1,3 @@
-#### Welcome to my collection of specialized text files
-
-- [Personal Website](https://xn--matthewmller-klb.com)
-- [Codeberg](https://codeberg.org/rmuell9)
+- Reach me at [matthew@rmmueller.com](matthew@rmmueller.com)
+- Personal website: [matthewmüller.com](https://xn--matthewmller-klb.com/)
+- Check out my other repos at [Codeberg.org](codeberg.org)
